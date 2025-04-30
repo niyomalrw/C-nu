@@ -1,0 +1,17 @@
+[
+    {
+      "$type": "JsonUserApp.Models.Admin, JsonUserApp",
+      "Name": "SuperAdmin",
+      "Age": 40,
+      "City": "Berlin",
+      "Permissions": "All"
+    },
+    {
+      "$type": "JsonUserApp.Models.RegularUser, JsonUserApp",
+      "Name": "Subscriber",
+      "Age": 22,
+      "City": "Rome",
+      "SubscriptionLevel": "Gold"
+    }
+  ]
+  
